@@ -33,5 +33,5 @@ make
 ```
 ## 👥 Auteurs
 
-👤 Dounia Hullot
-👤 Romaric Chaffray
+👤 [Dounia Hullot](https://github.com/Douniahlt)
+👤 [Romaric Chaffray](https://github.com/rosignol08)
